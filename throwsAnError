@@ -1,0 +1,2 @@
+echo About To Error
+exit 1
